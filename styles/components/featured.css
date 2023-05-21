@@ -1,3 +1,7 @@
+.featured{
+  padding-top: 5rem;
+}
+
 .featured__subtitle {
   font-size: var(--size-xs);
   color: var(--color-indigo);
